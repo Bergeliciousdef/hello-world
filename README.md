@@ -1,5 +1,4 @@
 # hello-world
-Learning about Github repositories
 
 Hello there viewers!
 
